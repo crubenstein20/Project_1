@@ -1,0 +1,79 @@
+YEAR_or_SEASON,Category,Group,Count,Percent
+2010-11,Confirmed Swine Contact,No,2,28.5714
+2010-11,Confirmed Swine Contact,Yes,5,71.4286
+2010-11,Age,<18 Years,5,71.4286
+2010-11,Age,>=18 Years,2,28.5714
+2010-11,Gender,Male,3,42.8571
+2010-11,Gender,Female,4,57.1429
+2010-11,Hospitalization,No,4,57.1429
+2010-11,Hospitalization,Yes,3,42.8571
+2010-11,Agricultural Event Attendance,No,4,57.1429
+2010-11,Agricultural Event Attendance,Yes,3,42.8571
+2011-12,Confirmed Swine Contact,No,26,8.46906
+2011-12,Confirmed Swine Contact,Yes,281,91.5309
+2011-12,Age,<18 Years,293,91.2773
+2011-12,Age,>=18 Years,28,8.72274
+2011-12,Gender,Male,153,47.6636
+2011-12,Gender,Female,168,52.3364
+2011-12,Hospitalization,No,300,94.6372
+2011-12,Hospitalization,Yes,17,5.36278
+2011-12,Agricultural Event Attendance,No,23,7.41935
+2011-12,Agricultural Event Attendance,Yes,287,92.5806
+2012-13,Confirmed Swine Contact,No,1,4.54545
+2012-13,Confirmed Swine Contact,Yes,21,95.4545
+2012-13,Age,<18 Years,21,95.4545
+2012-13,Age,>=18 Years,1,4.54545
+2012-13,Gender,Male,9,40.9091
+2012-13,Gender,Female,13,59.0909
+2012-13,Hospitalization,No,21,95.4545
+2012-13,Hospitalization,Yes,1,4.54545
+2012-13,Agricultural Event Attendance,No,3,13.6364
+2012-13,Agricultural Event Attendance,Yes,19,86.3636
+2013-14,Confirmed Swine Contact,Yes,X,X
+2013-14,Age,<18 Years,X,X
+2013-14,Gender,Female,X,X
+2013-14,Hospitalization,No,X,X
+2013-14,Hospitalization,Yes,X,X
+2013-14,Agricultural Event Attendance,No,X,X
+2013-14,Agricultural Event Attendance,Yes,X,X
+2014-15,Confirmed Swine Contact,No,1,16.6667
+2014-15,Confirmed Swine Contact,Yes,5,83.3333
+2014-15,Age,<18 Years,3,50
+2014-15,Age,>=18 Years,3,50
+2014-15,Gender,Male,5,83.3333
+2014-15,Gender,Female,1,16.6667
+2014-15,Hospitalization,No,2,33.3333
+2014-15,Hospitalization,Yes,4,66.6667
+2014-15,Agricultural Event Attendance,No,5,83.3333
+2014-15,Agricultural Event Attendance,Yes,1,16.6667
+2015-16,Confirmed Swine Contact,No,1,4.54545
+2015-16,Confirmed Swine Contact,Yes,21,95.4545
+2015-16,Age,<18 Years,18,78.2609
+2015-16,Age,>=18 Years,5,21.7391
+2015-16,Gender,Male,14,60.8696
+2015-16,Gender,Female,9,39.1304
+2015-16,Hospitalization,No,20,86.9565
+2015-16,Hospitalization,Yes,3,13.0435
+2015-16,Agricultural Event Attendance,No,4,18.1818
+2015-16,Agricultural Event Attendance,Yes,18,81.8182
+2016-17,Confirmed Swine Contact,No,1,1.5625
+2016-17,Confirmed Swine Contact,Yes,63,98.4375
+2016-17,Age,<18 Years,64,96.9697
+2016-17,Age,>=18 Years,2,3.0303
+2016-17,Gender,Male,32,48.4848
+2016-17,Gender,Female,34,51.5152
+2016-17,Hospitalization,No,58,92.0635
+2016-17,Hospitalization,Yes,5,7.93651
+2016-17,Agricultural Event Attendance,No,2,3.07692
+2016-17,Agricultural Event Attendance,Yes,63,96.9231
+2017-18,Confirmed Swine Contact,No,3,17.6471
+2017-18,Confirmed Swine Contact,Yes,14,82.3529
+2017-18,Age,<18 Years,16,94.1176
+2017-18,Age,>=18 Years,1,5.88235
+2017-18,Gender,Male,10,58.8235
+2017-18,Gender,Female,7,41.1765
+2017-18,Hospitalization,No,15,93.75
+2017-18,Hospitalization,Yes,1,6.25
+2017-18,Agricultural Event Attendance,No,4,23.5294
+2017-18,Agricultural Event Attendance,Yes,13,76.4706
+2018-19,Confirmed Swine Contact,No,X,X
