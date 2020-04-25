@@ -1,4 +1,4 @@
-Radha - Responsible for pulling and cleaning data for flights of 3 areas.
-Brant - Responsible for pulling and cleaning data for COVID-19 for 3 areas.
-Johnathon - Responsible for making charts and statistics of the states affected but COVID-19.
-Connor - Responsible for making charts comparing Tracked Flights vs COVID-19 and summaries.
+Radha - Responsible for pulling,cleaning, and merging flight data of 3 areas, also correlation tests.
+Brant - Responsible for pulling and cleaning COVID-19 data for 3 areas.
+Johnathon - Responsible for making bar charts and statistics of the states affected by COVID-19.
+Connor - Responsible for making scatter plots comparing Tracked Flights vs COVID-19 and summaries.
